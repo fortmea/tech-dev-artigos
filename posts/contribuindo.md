@@ -19,6 +19,7 @@ as tags necessárias são: titulo, autor, resumo, e date. dessa maneira:
 ```
 e em seguida, apenas siga com o padrão markdown com o seu artigo!
 Além disso, o nome do seu arquivo precisa ser único.
-Novos posts devem ser inseridos na pasta ```src/posts```.
+Novos posts devem ser inseridos na pasta ```posts```.
+Utilizamos um [repositório separado para os artigos](https://github.com/fortmea/tech-dev-artigos/), pois seria necessário clonar todo o projeto para contribuir. Utilizando um repositório exclusivo para os artigos, a contribuição fica simplificada.
 Para entender melhor, veja como esse mesmo artigo foi estruturado 
-*[clicando aqui](https://github.com/fortmea/tech.dev/blob/main/tech-dev/src/posts/contribuindo.md)*.
+*[clicando aqui](https://github.com/fortmea/tech-dev-artigos/blob/main/posts/contribuindo.md)*.
